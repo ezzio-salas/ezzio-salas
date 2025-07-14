@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web 3.0 and security devops
 - 💞️ I’m looking to collaborate on any security or web 3.0 projects.
 - 📫 How to reach me ? you can send me an email
+- Resume - http://ezzio.aosdc.com/
 
 <!---
 ezzio-salas/ezzio-salas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
